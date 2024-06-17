@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-bgurl {
+  background-image: url(../../public/images/Background.jpg);
+  background-size: cover;
+  max-height: 100%;
+}
+
+/* <<input autocomplete bg fix>> */
+input:-webkit-autofill,
+input:-webkit-autofill:focus {
+  transition: background-color 600000s 0s, color 600000s 0s;
+}
+
+input[data-autocompleted] {
+  background-color: transparent !important;
+}
