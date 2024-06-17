@@ -1,5 +1,5 @@
 # Introduction 
-TODO: Create a sample full stack project using next and nest js with functionality of login, create user, list user, create role, list user roles and homepage. 
+TODO: Create a sample responsive full stack app using reusable next js component and nest js with functionality of login, create user, list user, create role, list user roles and homepage. 
 
 # Getting Started
 TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
@@ -38,4 +38,4 @@ ScreenShots:
 
 | Nav Bar  |
 | ------------- |
-| <img src="[https://i.ibb.co/2M5Kxty/Home-ALL-List.png](https://i.ibb.co/HCg8mkb/Screenshot-2024-06-17-155504.png)" />  |
+| <img src="https://i.ibb.co/XDJRmvK/Screenshot-2024-06-17-155504.png" />  |
