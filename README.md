@@ -25,7 +25,7 @@ ScreenShots:
 
 | Login Page  | Home Page |
 | ------------- | ------------- |
-| <img src="https://i.ibb.co/wKJGSq8/Screenshot-2024-06-17-125043.png" />  | <img src="https://i.ibb.co/JszgDbH/Screenshot-2024-06-17-155331.png"/>  |
+| <img src="https://i.ibb.co/Bzm3dcv/Screenshot-2024-06-17-161647.png" />  | <img src="https://i.ibb.co/JszgDbH/Screenshot-2024-06-17-155331.png"/>  |
 
 ## User
 
