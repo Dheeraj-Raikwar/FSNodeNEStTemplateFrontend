@@ -1,5 +1,5 @@
 # Introduction 
-TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
+TODO: Create a sample responsive full stack app using reusable next js component and nest js with functionality of login, create user, list user, create role, list user roles and homepage. 
 
 # Getting Started
 TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
@@ -18,3 +18,24 @@ If you want to learn more about creating good readme files then refer the follow
 - [ASP.NET Core](https://github.com/aspnet/Home)
 - [Visual Studio Code](https://github.com/Microsoft/vscode)
 - [Chakra Core](https://github.com/Microsoft/ChakraCore)
+
+ScreenShots:
+
+## Home
+
+| Login Page  | Home Page |
+| ------------- | ------------- |
+| <img src="https://i.ibb.co/Bzm3dcv/Screenshot-2024-06-17-161647.png" />  | <img src="https://i.ibb.co/JszgDbH/Screenshot-2024-06-17-155331.png"/>  |
+
+## User
+
+| User List | Role List | Create User |
+| :---         |     :---:      |          ---: |
+| <img src="https://i.ibb.co/vjff3fR/Screenshot-2024-06-17-155144.png" />   | <img src="https://i.ibb.co/DfSG5yz/Screenshot-2024-06-17-155835.png"/>   | <img src="https://i.ibb.co/rf25z37/Screenshot-2024-06-17-160001.png"/>   |
+
+
+## Nav Bar
+
+| Nav Bar  |
+| ------------- |
+| <img src="https://i.ibb.co/XDJRmvK/Screenshot-2024-06-17-155504.png" />  |
