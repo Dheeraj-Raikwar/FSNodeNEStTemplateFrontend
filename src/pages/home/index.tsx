@@ -7,7 +7,7 @@ const HomePage: NextPage<Props> = () => {
 	return (
 		<>
 			<div>
-				<div className="flex justify-between">
+				<div className="flex justify-center">
 					<div>
 						<p className="text-2xl text-app-009 font-bold">Home Page</p>
 					</div>

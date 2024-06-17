@@ -212,11 +212,12 @@ function MainLayout({ children }: MainLayoutProps): ReactElement {
 				<NavbarContent className="md">
 					<NavbarMenuToggle />
 				</NavbarContent>
-
-				<NavbarBrand >
-					{/* <AcmeLogo /> */}
-					<p className="font-bold text-app-016">App</p>
-				</NavbarBrand>
+				<div className='flex justify-center'>
+					<NavbarBrand >
+						{/* <AcmeLogo /> */}
+						<p className="font-bold text-app-016">App</p>
+					</NavbarBrand>
+				</div>
 
 				<NavbarContent as="div" justify="end">
 					<Dropdown placement="bottom-end">
@@ -234,7 +235,7 @@ function MainLayout({ children }: MainLayoutProps): ReactElement {
 						<DropdownMenu aria-label="Profile Actions" variant="flat">
 							<DropdownItem key="profile" className="h-14 gap-2">
 								<p className="font-semibold">Signed in as</p>
-								<p className="font-semibold">{AppState.user?.firstName+" "+AppState.user?.lastName}</p>
+								<p className="font-semibold">{AppState.user?.firstName + " " + AppState.user?.lastName}</p>
 								<p className="font-semibold">{AppState.user?.email}</p>
 							</DropdownItem>
 							<DropdownItem key="logout" color="danger" onClick={handleLogout}>
